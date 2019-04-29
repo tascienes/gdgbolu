@@ -1,0 +1,52 @@
+body{
+	background-image: url("cekilisarkaplanv2.png");
+	height: 100%; 
+	background-color: #111111;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.ana-kisim{
+	text-align: center;
+}
+.orta-resim img{
+ 	width: 50%;
+        
+ 	object-fit: contain;
+}
+
+.title{
+	margin-top: 5px;
+	font-family: 'Roboto', sans-serif;
+	color: #fff;
+}
+
+.sayi{
+	margin-top: 20px;
+	width: 150px;text-align: center;
+	border: 1px solid #f00341;
+	border-radius: 5px;
+}
+
+.btn-Cekilis{
+	margin-top: 20px;
+}
+
+.winners-title{
+	margin-top: 15px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 30px;
+	color: #FFDC00;
+}
+
+.winners{
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	color: #7efff5;
+	font-size: 25px;
+}
+
+
